@@ -14,7 +14,7 @@ class App extends Component {
 
   componentWillMount(){
     const config = {
-      
+
     };
     firebase.initializeApp(config);
       }
